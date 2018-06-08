@@ -8,11 +8,3 @@ Update all Field.
 wzg and my baby.
 
 agineUpdate all.
-
-<<<<<<< HEAD
-创建分支了.我又修改了啊.
-=======
-创建分支了.
-
-我修改了分支行.修改;
->>>>>>> fearture1
